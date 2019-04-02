@@ -6,6 +6,7 @@ Introduction:
 Sorting Hat is a class-sorting program, designed for the Lewis & Clark College's Exploration & Discovery program. Sorting Hat allows the user to allocate first-year students to their respective mandatory classes based on a series of variables, including preferences, gender, athlete status, previous professors, and so on. 
 
 Instructions:
+
 0. Get a good night's sleep and a hearty breakfast. Gotta start the day right amiright? :)
 1. Run sortinghat.jar.
 2. Load a properly formatted (see formatting instructions below) student csv file by clicking the browse students button.

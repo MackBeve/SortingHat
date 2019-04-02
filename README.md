@@ -1,21 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@MackBeve Sign out
-4
-0 3 PeterDrake/sofdev-eandd-2018 Private
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-sofdev-eandd-2018/data/README.txt
-@nicktej nicktej Edited the GUI, added ReadMe
-616997e on Apr 24, 2018
-49 lines (43 sloc)  2.96 KB
-    
 #####SORTING HAT#####
 Authored by: James Tostado, Lars Mayrand, Mack Beveridge, Maxwell Levin, Nick Tan, Sam Peers Nitzberg
 
@@ -55,6 +37,7 @@ Instructions:
 4. Check the athlete checkbox if you would like to factor athlete distribution in the sorting process.*
 5. Click run to sort the students into sections!
 6. The output csv file is called eanddsorted.csv, located in the user directory.**
+7. 
 
 *Note: sometimes this might affect how students receive their top choice. If you find the results to be unsatisfactory, unchecking the athlete box might improve them.
 **Note: if eanddsorted.csv already exists, the output file would have a number at the end. For example, eanddsorted(2).csv
@@ -63,15 +46,3 @@ File Formatting Instructions:
 To ensure the program runs properly, the student and section csv files should be accurately formatted. Headers are optional. If headers are present, they can be in any order, and capitalization is optional. Here is how:
 Students: Placement,ID,Gender,Athlete,Sport,SSS,AES,Transfer,Continuing,Previous Instructor,Illegal Sections,Choice 1,Choice 2,Choice 3,Choice 4,Choice 5,Choice 6
 Section: Core Section #, Professor, Student Cap
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
